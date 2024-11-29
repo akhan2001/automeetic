@@ -1,0 +1,53 @@
+{
+    "settings": [
+      {
+        "Preferences": [
+          {
+            "preference_setting": "Push Notifications"
+          },
+          {
+            "preference_setting": "Email Updates"
+          },
+          {
+            "preference_setting": "App Theme"
+          },
+          {
+            "preference_setting": "Distance Unit"
+          }
+        ],
+        "Account": [
+          {
+            "account_setting": "Cookie Settings"
+          },
+          {
+            "account_setting": "Become and Affiliate"
+          },
+          {
+            "account_setting": "Subscriptions+"
+          }
+        ],
+        "Payments": [
+          {
+            "payment_setting": "Payment made"
+          },
+          {
+            "payment_setting": "Subscriptions"
+          }
+        ],
+        "Support": [
+          {
+            "support_setting": "About AutoMeetic"
+          },
+          {
+            "support_setting": "Help"
+          },
+          {
+            "support_setting": "Send us Feedback"
+          },
+          {
+            "support_setting": "Rate AutoMeetic"
+          }
+        ]
+      }
+    ]
+  }

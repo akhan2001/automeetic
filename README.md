@@ -1,30 +1,40 @@
-# AutoMeetic
+# Automeetic
 
-AutoMeetic is a social platform built for car enthusiasts to connect, share their passion, and organize car meetups. Users can join groups, chat with members, and discover upcoming events, fostering both online interactions and in-person gatherings.
+AutoMeetic is a social platform designed for car enthusiasts to connect and share their passion for cars. Through the app, users can join various car groups, chat with fellow enthusiasts, and organize or participate in car meetups. The app aims to foster a vibrant community where car lovers can come together both online and in person.
 
 ## Features
-- **Upcoming Events**: Find and join car meetups.
-- **Join Groups**: Connect with like-minded car lovers.
-- **Messaging**: Chat with members.
-- **Personalized Settings**: Tailor your experience.
 
-## Team
-- **Project Lead**: Affan Khan
-- **Backend Developer**: Abdullah Khan
-- **Designing Intern**: Wisam
+- Upcoming Events: Explore and participate in upcoming car meetups and events.
+- Join Groups: Connect with like-minded car enthusiasts by joining specific car groups.
+- Search Upcoming Events: Search for upcoming events near you.
+- Messaging: Chat with group members and plan meetups.
+- Personalized Settings: Customize your app experience with various settings options.
 
-## Requirements to Run
-1. Install Expo: `npx expo install`
-2. Install Expo CLI: `npm install -g expo-cli`
+## Live Demo
 
-## How to Run
-1. Navigate to `./automeetic/`
-2. Run: `npm install`
-3. Start the app: `npx expo start`
+![Live Demo](demo/live-demo.gif)
 
-## Git Workflow
-- `git pull` (pulls changes)
-- `git status` (check status)
-- `git add .` (add changes)
-- `git commit -m "message"` (commit)
-- `git push` (push changes)
+## Authors and acknowledgment
+
+- Project Lead: Affan Khan
+- DevOps Engineer: Abdullah Khan
+- Frontend Developer: Wisam
+
+## Requirments to run: download expo
+
+- npx expo install
+- npm install -g expo-cli
+
+## How to run
+
+- go to ./automeetic/ directory
+- run command: `npm install`
+- run command `npx expo start`
+
+## How to use Git for wisam
+
+- git pull (pulls origin branch)
+- git status (view current changes)
+- git add . (adds all files changes)
+- git commit -m "put ur commenting for the commit here"
+- git push (finalize push to origin)

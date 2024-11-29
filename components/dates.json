@@ -1,0 +1,42 @@
+{
+  "dates": [
+    {
+      "date": "Today"
+    },
+    {
+      "date": "Tomorrow"
+    },
+    {
+      "date": "This weekend"
+    },
+    {
+      "date": "Choose date"
+    },
+    {
+      "date": "All upcoming"
+    }
+  ],
+  "interests": [
+    {
+      "interest": "Car shows"
+    },
+    {
+      "interest": "Racing Events"
+    },
+    {
+      "interest": "Meets and greets"
+    },
+    {
+      "interest": "Cars and coffee"
+    },
+    {
+      "interest": "Networking"
+    },
+    {
+      "interest": "EV Talk"
+    },
+    {
+      "interest": "Photography"
+    }
+  ]
+}
