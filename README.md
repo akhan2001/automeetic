@@ -17,8 +17,8 @@ AutoMeetic is a social platform designed for car enthusiasts to connect and shar
 ## Authors and acknowledgment
 
 - Project Lead: Affan Khan
-- DevOps Engineer: Abdullah Khan
-- Frontend Developer: Wisam
+- Frontend Developer (UI / UX): Abdullah Khan
+- Backend Developer: Wisam
 
 ## Requirments to run: download expo
 
